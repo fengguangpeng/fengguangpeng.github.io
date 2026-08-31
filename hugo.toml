@@ -1,13 +1,13 @@
 baseURL = 'https://fengguangpeng.github.io/'
 languageCode = 'en-us'
-title = "X's Singularity Notes"
+title = "Feng Guangpeng's Blog"
 theme = "PaperMod"
 
 [params]
     env = "production"
-    title = "X's Singularity Notes"
-    description = "Notes from the event horizon of thought."
-    author = "X"
+    title = "Feng Guangpeng's Blog"
+    description = "Personal blog of Feng Guangpeng, recording thoughts on life, tech and beyond."
+    author = "Feng Guangpeng"
     
     defaultTheme = "dark"
     disableThemeToggle = true
