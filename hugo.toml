@@ -9,8 +9,8 @@ theme = "PaperMod"
     description = "Personal blog of Feng Guangpeng, recording thoughts on life, tech and beyond."
     author = "Feng Guangpeng"
     
-    defaultTheme = "dark"
-    disableThemeToggle = true
+    defaultTheme = "light"
+    disableThemeToggle = false
     DateFormat = "2006/01/02 15:04"
     ShowReadingTime = true
     ShowShareButtons = false
