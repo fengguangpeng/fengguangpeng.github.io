@@ -17,6 +17,7 @@ theme = "PaperMod"
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
+    comments = true
 
     [params.profileMode]
         enabled = false
